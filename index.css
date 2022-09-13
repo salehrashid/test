@@ -3,8 +3,9 @@
 	flex-basis: inherit;
 }
 
-{
+body{
 	flex: inherit;
 	padding: 80;
 	margin: inherit;
+	padding-top: 30px;
 }
